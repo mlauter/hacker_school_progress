@@ -1,3 +1,11 @@
+## Aug 13
+#### bpython bugs
+* filed my first bug! <-- not just first for bpython, first for any open source project!
+* submitted a pull request for a fix to this bug
+* tom merged my pull request
+* this was not the original bug I was working on, but a bug I ran into while working on the other one having to do with autocomplete failing on syntax errors when you're just trying to revise a line of code before hitting enter 
+* still working on the helpful traceback colors
+
 ## Aug 12
 ####bpython bugs
 
