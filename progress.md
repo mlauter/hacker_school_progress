@@ -1,3 +1,15 @@
+## to do
+* blog about bpython pull request
+* implement home/away mode
+* finish bpython traceback colors
+* install bootstrap
+* buy wires and temp sensor
+* play around with css and javascript stuff
+
+## Aug 14
+#### blog
+* changed the favicon
+
 ## Aug 13
 #### bpython bugs
 * filed my first bug! <-- not just first for bpython, first for any open source project!
@@ -5,6 +17,12 @@
 * tom merged my pull request
 * this was not the original bug I was working on, but a bug I ran into while working on the other one having to do with autocomplete failing on syntax errors when you're just trying to revise a line of code before hitting enter 
 * still working on the helpful traceback colors
+
+#### ac project
+* paired with dana to get the temperature sensor working
+* it works, but now I need to implement how the home/away modes should work, namely that I should always be able to manually override the desired temperature setting, but the "desired state" variable should not always interfere with home mode
+* also need to buy some wires and a new temperature sensor to give back to dana 
+*also learned a bit of css
 
 ## Aug 12
 ####bpython bugs
