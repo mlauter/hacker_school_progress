@@ -7,8 +7,12 @@
 * play around with css and javascript stuff
 
 ## Aug 14
+#### bpython bug
+* got a good first draft of the traceback, posted some screenshots on the github issue, people seemed into it
+*now need to make some changes to the way I'm doing the regex so that it doesn't fail so much, and also make sure that if it fails, bpython will just do the usual non-colorized traceback rather than blowing up
 #### blog
 * changed the favicon
+* downloaded the .html for twitter cards
 
 ## Aug 13
 #### bpython bugs
