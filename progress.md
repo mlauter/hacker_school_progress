@@ -3,8 +3,12 @@
 * implement home/away mode
 * finish bpython traceback colors
 * install bootstrap
-* buy wires and temp sensor
 * play around with css and javascript stuff
+
+## Aug 15
+* successfully deployed app to heroku
+* practiced for job interviews
+* updated github readmes and hacker school bio 
 
 ## Aug 14
 #### bpython bug
