@@ -5,6 +5,16 @@
 * install bootstrap
 * play around with css and javascript stuff
 
+# Aug 19
+Soldered temperature sensor circuit for AC project, all hardware works
+Need to refactor code for the server and pi program
+
+## Aug 18
+Subclassed bpython formatter and code.InteractiveInterpreter, got traceback coloring to work with pygments, just need to incorporate into bpython itself
+
+## Aug 16 - 17
+Went to pygotham
+
 ## Aug 15
 * successfully deployed app to heroku
 * practiced for job interviews
