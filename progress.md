@@ -1,13 +1,24 @@
 ## to do
-* blog about bpython pull request
-* implement home/away mode
+* refactor pi code and implement home/away mode
 * finish bpython traceback colors
 * install bootstrap
 * play around with css and javascript stuff
+* finish jQuery course
+* incorporate bpython traceback into bpython and push to my fork
+
+# Aug 21
+* discussed recursion with Alan
+* went over why a recursive implementation of max(list) blows up in python, talked about tail call optimization and how it would work in Haskell/scheme, and also how the version with a loop in python is basically the same/what tail call optimization turns a tail recursive definition into in a language with tail call optimization
+
+# Aug 20
+* started Quick Reminders, a chrome extension to schedule reminders
+* worked through a good chunk of jQuery course on code academy
+* huge refactor of AC project code, server and UI, still need to refactor the pi code
 
 # Aug 19
-Soldered temperature sensor circuit for AC project, all hardware works
-Need to refactor code for the server and pi program
+* Soldered temperature sensor circuit for AC project, all hardware works
+* Need to refactor code for the server and pi program
+* wrote blog post about bpython pull request
 
 ## Aug 18
 Subclassed bpython formatter and code.InteractiveInterpreter, got traceback coloring to work with pygments, just need to incorporate into bpython itself
