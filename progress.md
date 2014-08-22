@@ -5,6 +5,12 @@
 * play around with css and javascript stuff
 * finish jQuery course
 * incorporate bpython traceback into bpython and push to my fork
+* what does yield do?
+* testing in python
+* more algorithms/job interview/take home assignment practice
+
+#Aug 22
+* went over dfs and bfs and coded up various solutions (though I need to solidify how to do this with graphs not just trees)
 
 # Aug 21
 * discussed recursion with Alan
