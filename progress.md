@@ -1,4 +1,5 @@
 ## to do
+* get: instruments, onenote
 * refactor pi code and implement home/away mode
 * finish bpython traceback colors
 * install bootstrap
