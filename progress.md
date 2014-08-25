@@ -1,14 +1,23 @@
 ## to do
-* get: instruments, onenote
+* look into pandocs
 * refactor pi code and implement home/away mode
-* finish bpython traceback colors
-* install bootstrap
-* play around with css and javascript stuff
-* finish jQuery course
 * incorporate bpython traceback into bpython and push to my fork
 * what does yield do?
 * testing in python
+* make a game
+* make a chat program
 * more algorithms/job interview/take home assignment practice
+
+# Aug 25
+* refactored UI for AC project
+* played around with bootstrap and jQuery
+* worked on sudoku solver with Maia: now have a solver that works for unambiguous 9x9 boards
+
+# Aug 23-24
+* finished jQuery course, working on javaScript course
+* one-on-one with Tom
+* met with Carter, worked on making a bouncing ball with gloss in Haskell
+* learned about Haskell's pandocs
 
 #Aug 22
 * went over dfs and bfs and coded up various solutions (though I need to solidify how to do this with graphs not just trees)
