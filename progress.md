@@ -12,6 +12,7 @@
 * refactored UI for AC project
 * played around with bootstrap and jQuery
 * worked on sudoku solver with Maia: now have a solver that works for unambiguous 9x9 boards
+* figured out how to send POST JSON to my server using jQuery .ajax, and figured out that that's what I needed to be doing to make it work :)
 
 # Aug 23-24
 * finished jQuery course, working on javaScript course
