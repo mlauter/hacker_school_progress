@@ -8,6 +8,13 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Aug 26
+* merged bpython helpful-traceback commits from Tom
+* some hiccups figuring out merging properly in git, but I've got it now
+* getting errors in unittests
+* also, not sure whether I should merge my dev branch into master or whether I should rebase
+* waiting for comment from Tom
+
 # Aug 25
 * refactored UI for AC project
 * played around with bootstrap and jQuery
