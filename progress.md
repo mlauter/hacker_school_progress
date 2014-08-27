@@ -1,4 +1,5 @@
 ## to do
+* implement some security for AC app like verifying input
 * look into pandocs
 * refactor pi code and implement home/away mode
 * incorporate bpython traceback into bpython and push to my fork
@@ -9,6 +10,10 @@
 * more algorithms/job interview/take home assignment practice
 
 # Aug 26
+
+### AC project (pretty much) complete!!!
+* All components of AC project working! The project is pretty much complete, still could use some improvements to the styling and needs a bit of security. Also need to set it up in my room.
+### bpython
 * merged bpython helpful-traceback commits from Tom
 * some hiccups figuring out merging properly in git, but I've got it now
 * getting errors in unittests
