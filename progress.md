@@ -9,6 +9,15 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Aug 28
+* successfully installed pygame
+* completed some more hacker school ctf levels.
+  * learned that getElementsByClassName returns an array
+  * learned that adding an extra / allowed me to bypass the security filtering 
+# Aug 27
+* major refactoring of sudoku solver with Maia. Lessons on writing testable code!
+* Hacker school capture the flag!! wow learning to use Burp, wireshark, do sql injection and cross site scripting attacks.
+
 # Aug 26
 
 ### AC project (pretty much) complete!!!
