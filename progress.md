@@ -1,4 +1,6 @@
 ## to do
+* write test and factor out common code for syntax error and traceback for bpython traceback colors
+* write blog post for ac project
 * implement some security for AC app like verifying input
 * look into pandocs
 * refactor pi code and implement home/away mode
@@ -8,6 +10,12 @@
 * make a game
 * make a chat program
 * more algorithms/job interview/take home assignment practice
+
+# Aug 29-30
+* successfully installed and used air conditioner remote control
+* figured out how to use git rebase -i to squash commits and make a nice looking commit history
+* made bpython pull request
+
 
 # Aug 28
 * successfully installed pygame
