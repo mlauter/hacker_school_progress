@@ -11,6 +11,10 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 3
+* I can move a rectangle around my screen with they keyboard using pygame!
+* learning firebase
+
 # Aug 29-30
 * successfully installed and used air conditioner remote control
 * figured out how to use git rebase -i to squash commits and make a nice looking commit history
