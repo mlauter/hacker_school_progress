@@ -1,15 +1,18 @@
 ## to do
-* write test and factor out common code for syntax error and traceback for bpython traceback colors
 * write blog post for ac project
-* implement some security for AC app like verifying input
+* finish snake
+* finish sudoku solver
 * look into pandocs
-* refactor pi code and implement home/away mode
-* incorporate bpython traceback into bpython and push to my fork
 * what does yield do?
 * testing in python
-* make a game
 * make a chat program
 * more algorithms/job interview/take home assignment practice
+
+# Sep 4
+* wrote test for bpython
+* submitted some other bugs to bpython (ascii escape sequences and terminal resizing issue)
+* bpython traceback pull request accepted!
+* working on writing body segment class for snake
 
 # Sep 3
 * I can move a rectangle around my screen with they keyboard using pygame!
