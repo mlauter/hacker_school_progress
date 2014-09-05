@@ -10,7 +10,7 @@
 
 # Sep 4
 * wrote test for bpython
-* submitted some other bugs to bpython (ascii escape sequences and terminal resizing issue)
+* submitted some other bugs to bpython (ANSI escape sequences and terminal resizing issue)
 * bpython traceback pull request accepted!
 * working on writing body segment class for snake
 
