@@ -10,7 +10,7 @@
 * more algorithms/job interview/take home assignment practice
 
 # Sep 5
-* phonebook jobs prep challenge. so much sql. 
+* phonebook jobs prep challenge. so much sql. maybe should have checked out argparse and maybe should have used separate database for each phonebook
 
 # Sep 4
 * wrote test for bpython
