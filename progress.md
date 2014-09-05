@@ -1,4 +1,5 @@
 ## to do
+* 'how do you detect a cycle in a linked list in constant space'
 * write blog post for ac project
 * finish snake
 * finish sudoku solver
@@ -7,6 +8,9 @@
 * testing in python
 * make a chat program
 * more algorithms/job interview/take home assignment practice
+
+# Sep 5
+* phonebook jobs prep challenge. so much sql. 
 
 # Sep 4
 * wrote test for bpython
