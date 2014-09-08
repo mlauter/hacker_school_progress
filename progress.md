@@ -1,13 +1,17 @@
 ## to do
+* use `ack` instead of `grep` for searching through source code
 * 'how do you detect a cycle in a linked list in constant space'
 * write blog post for ac project
-* finish snake
 * finish sudoku solver
 * look into pandocs
 * what does yield do?
 * testing in python
 * make a chat program
 * more algorithms/job interview/take home assignment practice
+
+# Sep 6-7
+* finished snake
+* wrote blog post about snake
 
 # Sep 5
 * phonebook jobs prep challenge. so much sql. maybe should have checked out argparse and maybe should have used separate database for each phonebook
