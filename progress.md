@@ -9,6 +9,11 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 8
+* looked at ipython __future__ imports with the -i (interactive) flag with Tom
+* Hacker school learning styles interview with Mel
+* finished writing tests for Sudoku with Maia, just have to finish the main outer loop and rewrite the printer and then we will be done.
+
 # Sep 6-7
 * finished snake
 * wrote blog post about snake
