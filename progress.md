@@ -9,6 +9,9 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 13
+* recursion practice 
+
 # Sep 10-12
 * finished ac blog posts
 * refactored snake
