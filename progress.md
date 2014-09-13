@@ -9,6 +9,11 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 10-12
+* finished ac blog posts
+* refactored snake
+* attended job fair 
+
 # Sep 9
 * wrote draft of resume, need to register for startup job fair
 * more work on AC blog post
