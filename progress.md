@@ -9,6 +9,9 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 14
+* working on pycon proposal
+
 # Sep 13
 * recursion practice 
 
