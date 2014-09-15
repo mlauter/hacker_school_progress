@@ -9,6 +9,11 @@
 * make a chat program
 * more algorithms/job interview/take home assignment practice
 
+# Sep 15
+* more pycon proposals
+* learned about smtp and smtplib in python
+* learned about byte literal vs string literal python3
+
 # Sep 14
 * working on pycon proposal
 
