@@ -1,13 +1,13 @@
 ## to do
+* implement colloquy style messages (rather than the bare protocol messages for user input)
+* figure out how to allow multiple server connections
 * use `ack` instead of `grep` for searching through source code
 * 'how do you detect a cycle in a linked list in constant space'
-* write blog post for ac project
-* finish sudoku solver
 * look into pandocs
-* what does yield do?
-* testing in python
-* make a chat program
-* more algorithms/job interview/take home assignment practice
+
+# Sep 19
+* job prep on hash tables 
+* got basic functions of the irc client working with asyncio (responds to pings, sends user messages)
 
 # Sep 15
 * more pycon proposals
