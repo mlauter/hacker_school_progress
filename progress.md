@@ -5,6 +5,9 @@
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
 
+# Sep 20-21
+* played some CTF
+
 # Sep 19
 * job prep on hash tables 
 * got basic functions of the irc client working with asyncio (responds to pings, sends user messages)
