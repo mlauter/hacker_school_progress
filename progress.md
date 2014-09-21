@@ -1,4 +1,5 @@
 ## to do
+* project virtuoso
 * implement colloquy style messages (rather than the bare protocol messages for user input)
 * figure out how to allow multiple server connections
 * use `ack` instead of `grep` for searching through source code
