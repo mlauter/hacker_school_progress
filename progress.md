@@ -6,6 +6,9 @@
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
 
+# Sep 22
+* birthday present for dad: set up an app that streams tweets with 'happy birthday' in several languages, then plots them to a google map
+
 # Sep 20-21
 * played some CTF
 
