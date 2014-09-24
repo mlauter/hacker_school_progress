@@ -1,10 +1,15 @@
 ## to do
+* write IRC client in Go
 * project virtuoso
 * implement colloquy style messages (rather than the bare protocol messages for user input)
 * figure out how to allow multiple server connections
 * use `ack` instead of `grep` for searching through source code
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
+
+# Sep 24
+* continued Go tutorial
+* paired with Liuda on a bpython bug, submitted pull request
 
 # Sep 22
 * birthday present for dad: set up an app that streams tweets with 'happy birthday' in several languages, then plots them to a google map
