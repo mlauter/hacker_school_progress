@@ -7,6 +7,10 @@
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
 
+# Sep 25 - 28
+* worked on Go IRC client
+* worked on interview problems
+
 # Sep 24
 * continued Go tutorial
 * paired with Liuda on a bpython bug, submitted pull request
