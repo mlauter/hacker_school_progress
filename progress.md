@@ -1,11 +1,16 @@
 ## to do
-* write IRC client in Go
+* shorten talk for thursday
 * project virtuoso
-* implement colloquy style messages (rather than the bare protocol messages for user input)
 * figure out how to allow multiple server connections
 * use `ack` instead of `grep` for searching through source code
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
+
+# Sep 30
+* wrote IRC presentation and gave practice talk
+
+# Sep 29
+* finished GoIRC
 
 # Sep 25 - 28
 * worked on Go IRC client
