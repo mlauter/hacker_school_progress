@@ -6,6 +6,16 @@
 * 'how do you detect a cycle in a linked list in constant space'
 * look into pandocs
 
+# Oct 2
+* got chrome extension working (for popup open)
+* tried to fix chrome extension to work in background
+* broke chrome extension
+
+# Oct 1
+* finished iOS hw #1
+* worked on chrome extension
+* set up Ubuntu virtual box, looked into openstack-swift
+
 # Sep 30
 * wrote IRC presentation and gave practice talk
 
